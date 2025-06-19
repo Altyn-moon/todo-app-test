@@ -104,3 +104,4 @@ todo-app-test/
 CRUD-операции с задачами
 UI с использованием Mantine
 Интерактивный frontend с TypeScript и Next.js
+
