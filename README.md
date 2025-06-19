@@ -14,7 +14,6 @@ cd todo-app-test
 2. Установка и активация виртуального окружения (для backend)
 python -m venv venv
 ./venv/Scripts/activate    # Windows
-# или
 source venv/bin/activate  # Linux/Mac
 
 3. Установка зависимостей backend
