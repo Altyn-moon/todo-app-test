@@ -1,0 +1,41 @@
+# Frontend (Next.js, Node)
+node_modules/
+.next/
+out/
+build/
+.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+*.pem
+
+# Yarn Plug'n'Play
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Coverage & testing
+coverage/
+
+# Python backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# VS Code settings (опционально)
+.vscode/
